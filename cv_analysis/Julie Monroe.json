@@ -1,0 +1,58 @@
+{
+  "PersonalInformation": {
+    "name": "Julie Monroe",
+    "phone": "3868683442",
+    "email": "email@email.com",
+    "Address": {
+      "street": "1515 Pacific Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "county": "",
+      "zip_code": "90291",
+      "country": "United States"
+    }
+  },
+  "Education": [
+    {
+      "degree": "Master of Science in Dietary Education",
+      "university": "Golden Valley University",
+      "location": "Golden Valley",
+      "duration": "Jul 2020 \u2014 Jul 2021"
+    },
+    {
+      "degree": "Bachelor of Science in Food Sciences",
+      "university": "Wisconsin State University",
+      "location": "Madisonville",
+      "duration": "Jan 2018 \u2014 Dec 2020"
+    },
+    {
+      "degree": "French Associates Degree in Nutrition",
+      "university": "St. Louis University",
+      "location": "Louisville",
+      "duration": "Jan 2015 \u2014 Oct 2017"
+    }
+  ],
+  "TechnicalSkills": [
+    "Food preparation",
+    "Kitchen maintenance",
+    "Kitchen equipment operation",
+    "Food sanitation",
+    "Nutrition"
+  ],
+  "Responsibilities": [
+    "Prescribed supplemental food packages tailored to clients' needs and nutrition status per USDA established WIC Program policy",
+    "Provided nutrition education counseling on morbid obesity, high cholesterol, and diabetes for uninsured patients at the health center",
+    "Performed nutrition assessments and WIC certifications",
+    "Provided nutrition education counseling and assessed nutritional status for participants of the WIC program",
+    "Certified and enrolled participants according to the WIC program and state regulatory guidelines",
+    "Educated, counseled, and supported patients to make long-term behavior and lifestyle changes",
+    "Worked with neurologists in the initiation and nitration of drugs related to anemia and secondary hyperparathyroidism",
+    "Participated in clinical CQI monitoring programs, including osteodystrophy management, kinetics, anemia, and nutrition management",
+    "Monitored laboratory indicators of bone mineral status and anemia in hemodialysis patients",
+    "Provided nutrition educational support to help patients improve their health"
+  ],
+  "Certificates": ["Certified Head Nutrition Consultant"],
+  "SoftSkills": [],
+  "Comment": "Talented Nutrition Consultant with three years of experience. Skilled in nutrition and food preparation. Received a promotion to head Nutrition Consultant within five months of hiring due to efficiency and interpersonal skills.",
+  "JobRecommend": ["Nutrition Consultant"]
+}

@@ -1,0 +1,54 @@
+{
+  "PersonalInformation": {
+    "name": "Janine Nel",
+    "phone": "3868683442",
+    "email": "email@email.com",
+    "Address": {
+      "street": "1515 Pacific Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "county": "",
+      "zip_code": "90291",
+      "country": "United States"
+    }
+  },
+  "Experience": [
+    "Sales Engineer, Engen Oil, Jacksonville",
+    "Sales Engineer, Quest Medical, Los Angeles"
+  ],
+  "TechnicalSkills": [
+    "AutoCAD",
+    "Industry Trends & Sales Forecasting",
+    "Knowledge of Technical Diagrams",
+    "Engineering",
+    "Agile Project Management"
+  ],
+  "Responsibilities": [
+    "Recognizing and providing current and future customer necessities in areas of filtration and lubrication products and services",
+    "Initiating Lubrication Fundamentals classes for employees and customers",
+    "Designing and applying industrial filtration programs",
+    "Designing and applying lubrication programs",
+    "Functioning as a consultant on Best-in-Class Lubrication programs",
+    "Managing day-to-day program management, customer relationships, and estimating the shaping and assembly of medical programs",
+    "Designing and presenting tailored technical solutions to top-3 state automotive dealers",
+    "Supervising logistics and Proof of concept pilots",
+    "Exceeding yearly quota by actively outperforming the competition in public tenders"
+  ],
+  "Certificates": [
+    "Certified Associate in Project Management (CAPM), Project Management Institute (PMI)"
+  ],
+  "SoftSkills": [
+    "Deadline-focused",
+    "Customer-oriented",
+    "Strong communication",
+    "Problem-solving",
+    "Leadership",
+    "Negotiation"
+  ],
+  "Comment": "Janine Nel is a highly experienced Sales Engineer with a strong background in technical sales and project management. She has a proven track record of contributing to revenue growth and building long-term relationships with Fortune 500 clients. Janine's technical skills include AutoCAD, industry trends and sales forecasting, knowledge of technical diagrams, and agile project management. She is a deadline-focused professional with strong communication and problem-solving abilities. Janine's experience and skills make her suitable for roles in technical sales, project management, and engineering.",
+  "JobRecommend": [
+    "Technical Sales Engineer",
+    "Project Manager",
+    "Engineering Sales Manager"
+  ]
+}
