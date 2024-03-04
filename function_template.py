@@ -247,7 +247,7 @@ fn_cv_analysis = [
             },
             "required": [
                 "PersonalInformation",
-                "Degree",
+                "Education",
                 "Experience",
                 "TechnicalSkills",
                 "Responsibilities",

@@ -12,34 +12,54 @@
       "country": "United States"
     }
   },
+  "Education": [
+    {
+      "degree": "B.S in Exercise Sciences",
+      "university": "Starfish Holistic Institute",
+      "location": "Orlando",
+      "duration": "July 2021 \u2014 Present"
+    },
+    {
+      "degree": "Head Wellness Coach Accreditation",
+      "university": "Wisconsin State University",
+      "location": "Madison",
+      "duration": "January 2019 \u2014 November 2020"
+    }
+  ],
   "Experience": [
     {
       "position": "Wellness Coach",
       "company": "The Zen Academy",
-      "duration": "January 2018 - July 2021"
+      "location": "Seattle",
+      "duration": "January 2018 \u2014 July 2021"
     },
     {
       "position": "Wellness Coach",
       "company": "YMCA",
-      "duration": "July 2021 - Present"
+      "location": "Manggar",
+      "duration": "July 2021 \u2014 July 2021"
     }
   ],
-  "TechnicalSkills": [],
+  "TechnicalSkills": [
+    "Yoga Asana",
+    "Anatomy",
+    "Private Instruction",
+    "Physiology"
+  ],
   "Responsibilities": [
-    "Taught large and small groups about achieving goals, wellness topics, and lifestyle changes.",
-    "Developed and instigated monthly wellness programs.",
-    "Collaborated with client management on how best to serve the population.",
-    "Established rapport with employees and client management and instructed during safety meetings to prevent injury and health promotion.",
-    "Custom-made specialized one-on-one coaching sessions that helped clients to achieve their goals.",
-    "Provided swift, polite, and professional services for members, clients, and guests of the YMCA.",
-    "Helped clients with achieving their fitness/ wellness goals with coaching and personal training sessions.",
-    "Designed and maintained professional levels of customer service with clients and guests.",
-    "Conducted health assessments on members and clients, consisting of blood pressure, body composition, and fitness levels.",
-    "Directed comprehensive orientations on exercise programs and equipment for members.",
-    "Guaranteed a clean, safe setting within the Wellness Center."
+    "Taught large and small groups about achieving goals, wellness topics, and lifestyle changes",
+    "Developed and instigated monthly wellness programs",
+    "Collaborated with client management on how best to serve the population",
+    "Established rapport with employees and client management and instructed during safety meetings to prevent injury and health promotion",
+    "Custom-made specialized one-on-one coaching sessions that helped clients to achieve their goals",
+    "Helped clients with achieving their fitness/ wellness goals with coaching and personal training sessions",
+    "Designed and maintained professional levels of customer service with clients and guests",
+    "Conducted health assessments on members and clients, consisting of blood pressure, body composition, and fitness levels",
+    "Directed comprehensive orientations on exercise programs and equipment for members",
+    "Guaranteed a clean, safe setting within the Wellness Center"
   ],
   "Certificates": ["Head Wellness Coach Accreditation"],
   "SoftSkills": [],
-  "Comment": "Experienced Wellness Coach with a focus on clinical nutrition and wellness. Skilled in developing and implementing wellness programs, conducting health assessments, and providing personalized coaching. Strong customer service and communication skills.",
-  "JobRecommend": ["Wellness Coach", "Nutritionist", "Health Coach"]
+  "Comment": "",
+  "JobRecommend": []
 }
