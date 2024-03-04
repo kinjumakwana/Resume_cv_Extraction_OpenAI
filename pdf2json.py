@@ -39,10 +39,12 @@ logger.info("basedir", basedir)
 CV_UPLOAD_DIR = "./cv_upload/"
 CV_ANALYSIS_DIR = "./cv_analysis/"
 GPT_MODEL = "gpt-3.5-turbo-0613"
-OPENAI_API_KEY="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"
-# OPENAI_API_KEY="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"
+# My 
+OPENAI_API_KEY="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"
+
 # Final
 # OPENAI_API_KEY="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"
+# OPENAI_API_KEY="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"
 
 HF_MODEL = "HuggingFaceH4/zephyr-7b-beta"
 HF_API_KEY = "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"

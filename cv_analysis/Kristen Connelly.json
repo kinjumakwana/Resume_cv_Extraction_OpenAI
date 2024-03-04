@@ -1,0 +1,45 @@
+{
+  "PersonalInformation": {
+    "name": "Kristen Connelly",
+    "phone": "3868683442",
+    "email": "email@email.com",
+    "Address": {
+      "street": "1515 Pacific Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "county": "",
+      "zip_code": "90291",
+      "country": "United States"
+    }
+  },
+  "Education": [
+    {
+      "degree": "BA in Film and Television",
+      "university": "Boston University",
+      "location": "Boston",
+      "duration": "FEBRUARY 2021 - PRESENT"
+    },
+    {
+      "degree": "Advanced Course in Digital Video Editing",
+      "university": "ADMEC Multimedia Institute",
+      "location": "Online",
+      "duration": "JANUARY 2018 - JULY 2018"
+    }
+  ],
+  "TechnicalSkills": ["Adobe Premiere Pro", "DaVinci Resolve"],
+  "Responsibilities": [
+    "Managed the bookings for guests, the green room traffic, and any guest suites.",
+    "Researched story ideas and then compiled footnotes and gathered footage for presentation.",
+    "Completed Video Production-scriptwriting, audio editing, and mixing using the Avid non-linear editing system.",
+    "Maintained and assisted with Production Acquisition.",
+    "Helped edit graphics and video projects from conception to creation.",
+    "Collaborated with the production team to provide content, digital assets, presentations, and other video needs.",
+    "Built, edited, and polished videography proposals for business clients.",
+    "Staged and set up audio and video equipment for studio and on-location shoots.",
+    "Performed minor maintenance on video and audio equipment and managed any required vendor repair."
+  ],
+  "Certificates": ["Hootsuite Certified Professional", "Adobe CS5 Certified"],
+  "SoftSkills": [],
+  "Comment": "",
+  "JobRecommend": []
+}

@@ -186,7 +186,31 @@ fn_cv_analysis = [
                     },
                     "description": "Educational qualifications.",
                 },
-                
+                "Experience": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "position": {
+                                "type": "string",
+                                "description": "Position held at the company.",
+                            },
+                            "company": {
+                                "type": "string",
+                                "description": "Name of the company.",
+                            },
+                            "location": {
+                                "type": "string",
+                                "description": "Location of the company",
+                            },
+                            "duration": {
+                                "type": "string",
+                                "description": "Duration of employment at the company. e.g. January 2020 - Present",
+                            }
+                        },
+                    },
+                    "description": "Experiences required at position.",
+                },
                 "TechnicalSkills": {
                     "type": "array",
                     "items": {
